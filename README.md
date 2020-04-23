@@ -97,6 +97,6 @@ Files are:
 
 ![Screenshot of Categories Genres in Direct Genres](Screenshot1.PNG)
 
-## 8. Acknowledgements
 
+## 8. Acknowledgements<br/>
 I would like to thank the mentors at Udacity for coaching necessary background skills in Data Analysis & Machine Learning.
